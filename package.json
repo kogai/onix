@@ -10,7 +10,7 @@
   "devDependencies": {
     "@bazel/bazelisk": "1.7.3",
     "@types/node": "14.14.25",
-    "fast-xml-parser": "3.17.6"
+    "fast-xml-parser": "3.19.0"
   },
   "peerDependencies": {
     "fast-xml-parser": "^3.17.6"
